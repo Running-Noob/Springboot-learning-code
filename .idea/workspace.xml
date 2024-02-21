@@ -31,6 +31,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="spring-beans.schema" />
       </list>
     </option>
   </component>
@@ -63,6 +64,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
+    "ignore_missing_gitignore": "true",
     "jdk.selected.JAVA_MODULE": "17",
     "last_opened_file_path": "C:/Users/Running Noob/Code Project/Springboot-learning-code/springboot_01_01_quickstart",
     "node.js.detected.package.eslint": "true",
@@ -119,7 +121,7 @@
       <option name="presentableId" value="Default" />
       <updated>1708495387912</updated>
       <workItem from="1708495388903" duration="1373000" />
-      <workItem from="1708496777515" duration="4362000" />
+      <workItem from="1708496777515" duration="11355000" />
     </task>
     <servers />
   </component>
