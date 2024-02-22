@@ -74,7 +74,7 @@
     "project.structure.last.edited": "Facet",
     "project.structure.proportion": "0.15039062",
     "project.structure.side.proportion": "0.3402299",
-    "settings.editor.selected.configurable": "MavenSettings",
+    "settings.editor.selected.configurable": "spring.boot",
     "spring.configuration.checksum": "b3b721c796059d7dfe9b934f701e2981",
     "vue.rearranger.settings.migration": "true"
   }
@@ -138,10 +138,15 @@
       <workItem from="1708495388903" duration="1373000" />
       <workItem from="1708496777515" duration="16070000" />
       <workItem from="1708527147171" duration="131000" />
+      <workItem from="1708582498473" duration="6835000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
