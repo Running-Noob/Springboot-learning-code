@@ -31,8 +31,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="spring-beans.schema" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
+        <option value="Mybatis-SqlMapper" />
       </list>
     </option>
   </component>
@@ -67,7 +68,7 @@
     "git-widget-placeholder": "main",
     "ignore_missing_gitignore": "true",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/Running Noob/Code Project/Springboot-learning-code/springboot_02_base_configuration",
+    "last_opened_file_path": "C:/Users/Running Noob/Code Project/Springboot-learning-code/springboot_05_druid/src/main/resources",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -80,7 +81,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.Springboot03JunitApplicationTests.contextLoads">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Running Noob\Code Project\Springboot-learning-code\springboot_05_druid\src\main\resources" />
+      <recent name="C:\Users\Running Noob\Code Project\Springboot-learning-code\springboot_05_druid\src\main\java\com\f\springboot" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Springboot05DruidApplicationTests.contextLoads">
     <configuration name="Springboot03JunitApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="springboot_03_junit" />
       <extension name="coverage">
@@ -97,15 +104,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="springboot_01_01_quickstart" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.f.springboot.Application" />
+    <configuration name="Springboot04MybatisApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_04_mybatis" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.f.springboot.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.f.springboot" />
+      <option name="MAIN_CLASS_NAME" value="com.f.springboot.Springboot04MybatisApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot05DruidApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_05_druid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.f.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.f.springboot" />
+      <option name="MAIN_CLASS_NAME" value="com.f.springboot.Springboot05DruidApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -138,10 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Springboot05DruidApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.Springboot04MybatisApplicationTests.contextLoads" />
         <item itemvalue="JUnit.Springboot03JunitApplicationTests.contextLoads" />
         <item itemvalue="Spring Boot.Springboot02BaseConfigurationApplication" />
         <item itemvalue="Spring Boot.Springboot0102QuickstartApplication" />
-        <item itemvalue="Spring Boot.Application" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +183,7 @@
       <workItem from="1708495388903" duration="1373000" />
       <workItem from="1708496777515" duration="16070000" />
       <workItem from="1708527147171" duration="131000" />
-      <workItem from="1708582498473" duration="8561000" />
+      <workItem from="1708582498473" duration="15180000" />
     </task>
     <servers />
   </component>

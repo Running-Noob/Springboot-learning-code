@@ -1,0 +1,13 @@
+mybatis:
+  #指定Mybatis的Mapper文件
+  mapper-locations: classpath:com/f/springboot/mapper/*.xml
+  #指定Mybatis的实体目录
+  type-aliases-package: com.f.springboot.pojo
+
+# 配置数据库信息
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/springboot
+    username: root
+    password: root
