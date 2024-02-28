@@ -31,14 +31,18 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="spring-beans.schema" />
-        <option value="Class" />
-        <option value="Interface" />
         <option value="Mybatis-SqlMapper" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://D:/maven/repository/com/baomidou/mybatis-plus-core/3.5.3/mybatis-plus-core-3.5.3-sources.jar!/com/baomidou/mybatisplus/core/mapper/BaseMapper.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://D:/maven/repository/org/mybatis/mybatis/3.5.6/mybatis-3.5.6.jar!/org/apache/ibatis/annotations/Mapper.class" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -68,7 +72,7 @@
     "git-widget-placeholder": "main",
     "ignore_missing_gitignore": "true",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/Running Noob/Code Project/Springboot-learning-code/springboot_05_druid/src/main/resources",
+    "last_opened_file_path": "C:/Users/Running Noob/Code Project/JavaWeb_learning_code",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -76,8 +80,8 @@
     "project.structure.last.edited": "Facet",
     "project.structure.proportion": "0.15039062",
     "project.structure.side.proportion": "0.3402299",
-    "settings.editor.selected.configurable": "spring.boot",
-    "spring.configuration.checksum": "b3b721c796059d7dfe9b934f701e2981",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "spring.configuration.checksum": "c25aeeebc42eac9e3a84a3112b2c7bff",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -87,51 +91,58 @@
       <recent name="C:\Users\Running Noob\Code Project\Springboot-learning-code\springboot_05_druid\src\main\java\com\f\springboot" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Springboot05DruidApplicationTests.contextLoads">
-    <configuration name="Springboot03JunitApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="springboot_03_junit" />
+  <component name="RunManager" selected="Spring Boot.Springboot0102QuickstartApplication">
+    <configuration name="BookMapperTest.testGetById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_06_ssmp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.f.springboot.*" />
+          <option name="PATTERN" value="com.f.springboot.mapper.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.f.springboot" />
-      <option name="MAIN_CLASS_NAME" value="com.f.springboot.Springboot03JunitApplicationTests" />
-      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="PACKAGE_NAME" value="com.f.springboot.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.f.springboot.mapper.BookMapperTest" />
+      <option name="METHOD_NAME" value="testGetById" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Springboot04MybatisApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="springboot_04_mybatis" />
+    <configuration name="BookMapperTest.testGetPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_06_ssmp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.f.springboot.*" />
+          <option name="PATTERN" value="com.f.springboot.mapper.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.f.springboot" />
-      <option name="MAIN_CLASS_NAME" value="com.f.springboot.Springboot04MybatisApplicationTests" />
-      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="PACKAGE_NAME" value="com.f.springboot.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.f.springboot.mapper.BookMapperTest" />
+      <option name="METHOD_NAME" value="testGetPage" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Springboot05DruidApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="springboot_05_druid" />
+    <configuration name="IBookServiceTest.testGetPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_06_ssmp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.f.springboot.*" />
+          <option name="PATTERN" value="com.f.springboot.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.f.springboot" />
-      <option name="MAIN_CLASS_NAME" value="com.f.springboot.Springboot05DruidApplicationTests" />
-      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="PACKAGE_NAME" value="com.f.springboot.service" />
+      <option name="MAIN_CLASS_NAME" value="com.f.springboot.service.IBookServiceTest" />
+      <option name="METHOD_NAME" value="testGetPage" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot_01_01_quickstart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.f.springboot.Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -149,9 +160,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Springboot02BaseConfigurationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="springboot_02_base_configuration" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.f.springboot.Springboot02BaseConfigurationApplication" />
+    <configuration name="Springboot06SsmpApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot_06_ssmp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.f.springboot.Springboot06SsmpApplication" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.f.springboot.*" />
@@ -164,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Springboot05DruidApplicationTests.contextLoads" />
-        <item itemvalue="JUnit.Springboot04MybatisApplicationTests.contextLoads" />
-        <item itemvalue="JUnit.Springboot03JunitApplicationTests.contextLoads" />
-        <item itemvalue="Spring Boot.Springboot02BaseConfigurationApplication" />
         <item itemvalue="Spring Boot.Springboot0102QuickstartApplication" />
+        <item itemvalue="Spring Boot.Springboot06SsmpApplication" />
+        <item itemvalue="JUnit.BookMapperTest.testGetPage" />
+        <item itemvalue="JUnit.BookMapperTest.testGetById" />
+        <item itemvalue="JUnit.IBookServiceTest.testGetPage" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +194,10 @@
       <workItem from="1708495388903" duration="1373000" />
       <workItem from="1708496777515" duration="16070000" />
       <workItem from="1708527147171" duration="131000" />
-      <workItem from="1708582498473" duration="15180000" />
+      <workItem from="1708582498473" duration="15452000" />
+      <workItem from="1708860629459" duration="8000" />
+      <workItem from="1708870459190" duration="9000" />
+      <workItem from="1709034982910" duration="21757000" />
     </task>
     <servers />
   </component>
