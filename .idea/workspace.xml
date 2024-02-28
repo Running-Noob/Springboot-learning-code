@@ -56,6 +56,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
   <component name="ProjectId" id="2cfGnOkjJXwoxVM1paclVXATRJM" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
@@ -72,94 +75,28 @@
     "git-widget-placeholder": "main",
     "ignore_missing_gitignore": "true",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/Running Noob/Code Project/JavaWeb_learning_code",
+    "last_opened_file_path": "C:/Users/Running Noob/Code Project/Springboot-learning-code/springboot_06_ssmp/src/main/resources/config",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Facet",
     "project.structure.proportion": "0.15039062",
     "project.structure.side.proportion": "0.3402299",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
-    "spring.configuration.checksum": "c25aeeebc42eac9e3a84a3112b2c7bff",
+    "spring.configuration.checksum": "63d080a84ebef3f41400669f2f48dcaa",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Running Noob\Code Project\Springboot-learning-code\springboot_06_ssmp\src\main\resources\config" />
       <recent name="C:\Users\Running Noob\Code Project\Springboot-learning-code\springboot_05_druid\src\main\resources" />
       <recent name="C:\Users\Running Noob\Code Project\Springboot-learning-code\springboot_05_druid\src\main\java\com\f\springboot" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.Springboot0102QuickstartApplication">
-    <configuration name="BookMapperTest.testGetById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="springboot_06_ssmp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.f.springboot.mapper.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.f.springboot.mapper" />
-      <option name="MAIN_CLASS_NAME" value="com.f.springboot.mapper.BookMapperTest" />
-      <option name="METHOD_NAME" value="testGetById" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BookMapperTest.testGetPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="springboot_06_ssmp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.f.springboot.mapper.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.f.springboot.mapper" />
-      <option name="MAIN_CLASS_NAME" value="com.f.springboot.mapper.BookMapperTest" />
-      <option name="METHOD_NAME" value="testGetPage" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IBookServiceTest.testGetPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="springboot_06_ssmp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.f.springboot.service.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.f.springboot.service" />
-      <option name="MAIN_CLASS_NAME" value="com.f.springboot.service.IBookServiceTest" />
-      <option name="METHOD_NAME" value="testGetPage" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="springboot_01_01_quickstart" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.f.springboot.Application" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Springboot0102QuickstartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="springboot_01_02_quickstart" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.f.springboot.Springboot0102QuickstartApplication" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.f.springboot.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="Springboot06SsmpApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="springboot_06_ssmp" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.f.springboot.Springboot06SsmpApplication" />
@@ -175,11 +112,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.Springboot0102QuickstartApplication" />
         <item itemvalue="Spring Boot.Springboot06SsmpApplication" />
-        <item itemvalue="JUnit.BookMapperTest.testGetPage" />
-        <item itemvalue="JUnit.BookMapperTest.testGetById" />
-        <item itemvalue="JUnit.IBookServiceTest.testGetPage" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +130,8 @@
       <workItem from="1708582498473" duration="15452000" />
       <workItem from="1708860629459" duration="8000" />
       <workItem from="1708870459190" duration="9000" />
-      <workItem from="1709034982910" duration="21757000" />
+      <workItem from="1709034982910" duration="24462000" />
+      <workItem from="1709106831006" duration="6261000" />
     </task>
     <servers />
   </component>
