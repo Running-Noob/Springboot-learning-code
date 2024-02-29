@@ -11,6 +11,7 @@
         <module name="springboot_08_profiles" />
         <module name="springboot_01_02_quickstart" />
         <module name="springboot_04_mybatis" />
+        <module name="springboot_10_configuration" />
         <module name="springboot_01_01_quickstart" />
         <module name="springboot_09_log" />
         <module name="springboot_06_ssmp" />
@@ -21,6 +22,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="demo" target="1.8" />
+      <module name="springboot_10_hot_deploy" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

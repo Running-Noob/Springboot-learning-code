@@ -18,11 +18,14 @@
         <option value="$PROJECT_DIR$/springboot_07_config/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_08_profiles/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_09_log/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_10_hot_deploy/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_10_configuration/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_10_hot_deploy/pom.xml" />
       </set>
     </option>
   </component>
