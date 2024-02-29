@@ -12,6 +12,7 @@
         <module name="springboot_01_02_quickstart" />
         <module name="springboot_04_mybatis" />
         <module name="springboot_01_01_quickstart" />
+        <module name="springboot_09_log" />
         <module name="springboot_06_ssmp" />
         <module name="springboot_05_druid" />
         <module name="springboot_02_base_configuration" />

@@ -1,0 +1,36 @@
+server:
+  port: 80
+
+## 设置日志记录级别为DEBUG
+## root 表示根节点，即整体应用日志级别
+#logging:
+#  level:
+#    root: debug
+
+# 设置日志组，控制指定组对应的日志输出级别
+logging:
+  group:
+    # 自定义组名，设置组中所包含的包
+    controller: com.f.springboot.controller
+    model: com.f.springboot.service, com.f.springboot.mapper
+  level:
+    root: info
+    # 设置某个组的日志输出级别
+    controller: debug
+    model: debug
+
+## 设置日志输出的格式
+#logging:
+#  pattern:
+#    console: "%d - %m%n"
+
+## 设置记录日志的文件
+#logging:
+#  file:
+#    name: server.log
+#  logback:
+#    rollingpolicy:
+#      # 当日志大小超过4KB时，就新开一个日志文件
+#      max-file-size: 4KB
+#      # 日志名称的设置
+#      file-name-pattern: server.%d{yyyy-MM-dd}.%i.log
