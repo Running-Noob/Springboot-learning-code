@@ -16,6 +16,9 @@
     <file url="file://$PROJECT_DIR$/springboot_05_druid/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_06_ssmp/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_06_ssmp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_06_ssmp/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_07_config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_07_config/src/main/resources" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

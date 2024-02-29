@@ -75,7 +75,7 @@
     "git-widget-placeholder": "main",
     "ignore_missing_gitignore": "true",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/Running Noob/Code Project/Springboot-learning-code/springboot_06_ssmp/src/main/resources/config",
+    "last_opened_file_path": "C:/Users/Running Noob/Code Project/Springboot-learning-code/springboot_07_config/src/main/resources/bookconfig.yml",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -84,22 +84,31 @@
     "project.structure.last.edited": "Facet",
     "project.structure.proportion": "0.15039062",
     "project.structure.side.proportion": "0.3402299",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "settings.editor.selected.configurable": "File.Encoding",
     "spring.configuration.checksum": "63d080a84ebef3f41400669f2f48dcaa",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Running Noob\Code Project\Springboot-learning-code\springboot_07_config\src\main\java\com\f\springboot" />
       <recent name="C:\Users\Running Noob\Code Project\Springboot-learning-code\springboot_06_ssmp\src\main\resources\config" />
       <recent name="C:\Users\Running Noob\Code Project\Springboot-learning-code\springboot_05_druid\src\main\resources" />
       <recent name="C:\Users\Running Noob\Code Project\Springboot-learning-code\springboot_05_druid\src\main\java\com\f\springboot" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Springboot06SsmpApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="springboot_06_ssmp" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.f.springboot.Springboot06SsmpApplication" />
+  <component name="RunManager" selected="Spring Boot.Springboot07ConfigApplication">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot_01_01_quickstart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.f.springboot.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot07ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot_07_config" />
+      <option name="PROGRAM_PARAMETERS" value="--spring.config.location=classpath:bookconfig.yml,classpath:book-server.yml" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.f.springboot.Springboot07ConfigApplication" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.f.springboot.*" />
@@ -110,9 +119,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Application" />
+      <item itemvalue="Spring Boot.Springboot07ConfigApplication" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.Springboot06SsmpApplication" />
+        <item itemvalue="Spring Boot.Springboot07ConfigApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +144,8 @@
       <workItem from="1708860629459" duration="8000" />
       <workItem from="1708870459190" duration="9000" />
       <workItem from="1709034982910" duration="24462000" />
-      <workItem from="1709106831006" duration="6261000" />
+      <workItem from="1709106831006" duration="6817000" />
+      <workItem from="1709168776339" duration="2478000" />
     </task>
     <servers />
   </component>
