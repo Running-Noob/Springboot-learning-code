@@ -75,7 +75,7 @@
     "git-widget-placeholder": "main",
     "ignore_missing_gitignore": "true",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/Running Noob/Code Project/Springboot-learning-code/springboot_07_config/src/main/resources/bookconfig.yml",
+    "last_opened_file_path": "C:/Users/Running Noob/Code Project/Springboot-learning-code/springboot_08_profiles/src/main/resources",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -91,16 +91,27 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Running Noob\Code Project\Springboot-learning-code\springboot_08_profiles\src\main\resources" />
+      <recent name="C:\Users\Running Noob\Code Project\Springboot-learning-code\springboot_08_profiles\src\main\java\com\f\springboot" />
       <recent name="C:\Users\Running Noob\Code Project\Springboot-learning-code\springboot_07_config\src\main\java\com\f\springboot" />
       <recent name="C:\Users\Running Noob\Code Project\Springboot-learning-code\springboot_06_ssmp\src\main\resources\config" />
       <recent name="C:\Users\Running Noob\Code Project\Springboot-learning-code\springboot_05_druid\src\main\resources" />
-      <recent name="C:\Users\Running Noob\Code Project\Springboot-learning-code\springboot_05_druid\src\main\java\com\f\springboot" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Running Noob\Code Project\Springboot-learning-code\springboot_08_profiles\src\main\resources\env" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.Springboot07ConfigApplication">
+  <component name="RunManager" selected="Spring Boot.Springboot08ProfilesApplication">
     <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="springboot_01_01_quickstart" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.f.springboot.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot06SsmpApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot_06_ssmp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.f.springboot.Springboot06SsmpApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -119,12 +130,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Springboot08ProfilesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot_08_profiles" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.f.springboot.Springboot08ProfilesApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.f.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Spring Boot.Springboot06SsmpApplication" />
       <item itemvalue="Spring Boot.Application" />
+      <item itemvalue="Spring Boot.Springboot08ProfilesApplication" />
       <item itemvalue="Spring Boot.Springboot07ConfigApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.Springboot08ProfilesApplication" />
         <item itemvalue="Spring Boot.Springboot07ConfigApplication" />
       </list>
     </recent_temporary>
@@ -145,7 +172,7 @@
       <workItem from="1708870459190" duration="9000" />
       <workItem from="1709034982910" duration="24462000" />
       <workItem from="1709106831006" duration="6817000" />
-      <workItem from="1709168776339" duration="2478000" />
+      <workItem from="1709168776339" duration="6277000" />
     </task>
     <servers />
   </component>

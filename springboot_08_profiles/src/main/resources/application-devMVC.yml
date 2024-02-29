@@ -1,0 +1,4 @@
+# 配置web上下文根路径
+server:
+  servlet:
+    context-path: '/library'

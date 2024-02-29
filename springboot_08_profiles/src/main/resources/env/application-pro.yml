@@ -1,0 +1,3 @@
+# application-pro.yml文件
+server:
+  port: 80

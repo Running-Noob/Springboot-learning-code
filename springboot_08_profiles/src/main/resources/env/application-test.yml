@@ -1,0 +1,3 @@
+# application-test.yml文件
+server:
+  port: 82
