@@ -10,6 +10,7 @@
         <module name="springboot_07_config" />
         <module name="springboot_08_profiles" />
         <module name="springboot_01_02_quickstart" />
+        <module name="springboot_11_test" />
         <module name="springboot_04_mybatis" />
         <module name="springboot_10_configuration" />
         <module name="springboot_01_01_quickstart" />

@@ -75,7 +75,7 @@
     "git-widget-placeholder": "main",
     "ignore_missing_gitignore": "true",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/Running Noob/Code Project/Springboot-learning-code/springboot_10_hot_deploy/src/test/java/com/f/springboot",
+    "last_opened_file_path": "C:/Users/Running Noob/Code Project/Spring-learning-code",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -104,7 +104,71 @@
       <recent name="com.f.springboot.controller" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.Springboot10ConfigurationApplication">
+  <component name="RunManager" selected="JUnit.WebTest.testBody">
+    <configuration name="WebTest.testBody" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_11_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.f.springboot.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.f.springboot.web" />
+      <option name="MAIN_CLASS_NAME" value="com.f.springboot.web.WebTest" />
+      <option name="METHOD_NAME" value="testBody" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebTest.testJsonBody" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_11_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.f.springboot.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.f.springboot.web" />
+      <option name="MAIN_CLASS_NAME" value="com.f.springboot.web.WebTest" />
+      <option name="METHOD_NAME" value="testJsonBody" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebTest.testStatus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_11_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.f.springboot.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.f.springboot.web" />
+      <option name="MAIN_CLASS_NAME" value="com.f.springboot.web.WebTest" />
+      <option name="METHOD_NAME" value="testStatus" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebTest.testWeb" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_11_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.f.springboot.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.f.springboot.web" />
+      <option name="MAIN_CLASS_NAME" value="com.f.springboot.web.WebTest" />
+      <option name="METHOD_NAME" value="testWeb" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="springboot_01_01_quickstart" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.f.springboot.Application" />
@@ -119,9 +183,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Springboot10ConfigurationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="springboot_10_configuration" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.f.springboot.Springboot10ConfigurationApplication" />
+    <configuration name="Springboot11TestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot_11_test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.f.springboot.Springboot11TestApplication" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.f.springboot.*" />
@@ -134,7 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.Springboot10ConfigurationApplication" />
+        <item itemvalue="JUnit.WebTest.testBody" />
+        <item itemvalue="JUnit.WebTest.testJsonBody" />
+        <item itemvalue="Spring Boot.Springboot11TestApplication" />
+        <item itemvalue="JUnit.WebTest.testStatus" />
+        <item itemvalue="JUnit.WebTest.testWeb" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +223,8 @@
       <workItem from="1709034982910" duration="24462000" />
       <workItem from="1709106831006" duration="6817000" />
       <workItem from="1709168776339" duration="18307000" />
-      <workItem from="1709206427289" duration="2828000" />
+      <workItem from="1709206427289" duration="3413000" />
+      <workItem from="1709354146427" duration="7939000" />
     </task>
     <servers />
   </component>
